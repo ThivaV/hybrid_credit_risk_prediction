@@ -4,5 +4,7 @@ tqdm
 pandas
 numpy
 matplotlib
+seaborn
 python-dotenv
 python-box
+scikit-learn
