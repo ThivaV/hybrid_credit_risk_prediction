@@ -1,10 +1,13 @@
 ipykernel
 ipywidgets
+python-dotenv
+python-box
 tqdm
 pandas
 numpy
 matplotlib
 seaborn
-python-dotenv
-python-box
 scikit-learn
+tensorflow
+gym
+stable-baselines3[extra]
